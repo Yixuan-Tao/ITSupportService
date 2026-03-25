@@ -1,0 +1,12 @@
+{
+  "project": "企业内部 IT 支持 AI Agent",
+  "total_files": 22,
+  "knowledge_base_files": 12,
+  "rule_files": 5,
+  "seed_files": 4,
+  "folders": [
+    "01_knowledge_base",
+    "02_policy_and_rules",
+    "03_seed_data"
+  ]
+}

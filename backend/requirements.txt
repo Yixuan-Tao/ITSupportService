@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+langgraph
+langchain-openai
+qdrant-client
+sqlalchemy
+asyncpg
+psycopg2-binary
+pydantic
+python-dotenv
+jira
+httpx
+sentence-transformers

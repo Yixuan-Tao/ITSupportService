@@ -1,0 +1,64 @@
+# Environment variables (包含敏感信息)
+.env
+.env.local
+.env.*.local
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Node.js
+node_modules/
+.npm
+.yarn
+*.log
+
+# Next.js
+.next/
+out/
+*.tsbuildinfo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Docker
+docker-compose.override.yml
+.docker/
+
+# 敏感文件
+*.pem
+*.key
+credentials.json
+service-account-key.json
+
+# 临时文件
+*.tmp
+*.temp
+.cache/
+tmp/
+
+# 操作系统
+.DS_Store
+Thumbs.db
+
+# 测试覆盖率
+coverage/
+.coverage
+
+# 类型检查
+*.types
